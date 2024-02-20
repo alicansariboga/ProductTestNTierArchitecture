@@ -1,4 +1,4 @@
-# TestNTierArchitecture
+# TestNTierArchitecturehttps://github.com/alicansariboga/ProductTestNTierArchitecture/blob/master/README.md
 
 ### Description:
 
@@ -7,11 +7,11 @@ After GetAll() from ProductManager, CRUD operations in EfEntityRepository should
 ### Project Screenshots
 
 <div style="display:flex; justify-content:space-around;">
-  <div>
+  <div style="flex-basis: 45%;>
     <h5>Main Page (List)</h5>
     <img src="https://github.com/alicansariboga/ProductTestNTierArchitecture/assets/23722313/8dcec5c1-c2f4-44fd-b6ef-e8f7fda86640" alt="Screenshot_main" width="400">
   </div>
-  <div>
+  <div style="flex-basis: 45%;>
     <h5>Adding Page (Post)</h5>
     <img src="https://github.com/alicansariboga/ProductTestNTierArchitecture/assets/23722313/69f43f95-6a4c-4947-803e-ec5f58454e1d" alt="Screenshot_add" width="400">
   </div>
