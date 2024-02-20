@@ -1,4 +1,4 @@
-# TestNTierArchitecturehttps://github.com/alicansariboga/ProductTestNTierArchitecture/blob/master/README.md
+# TestNTierArchitecture
 
 ### Description:
 
