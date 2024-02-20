@@ -16,5 +16,5 @@ After GetAll() from ProductManager, CRUD operations in EfEntityRepository should
     <img src="https://github.com/alicansariboga/ProductTestNTierArchitecture/assets/23722313/69f43f95-6a4c-4947-803e-ec5f58454e1d" alt="Screenshot_add" width="400">
   </div>
 </div>
-
+<br/>
 You can contact and connect with me <a>[LinkedIn](https://www.linkedin.com/in/alicansariboga/)<a/> or <b><a href="mailto:alicansariboga1@gmail.com" target="blank">E-Mail</a></b>.
