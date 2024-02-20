@@ -1,0 +1,35 @@
+﻿
+@model List<Product>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int count = 0;
+}
+
+<div class="container">
+    <div class="p-5 w-50 m-0">
+        <a href="~/Product/Add" class="btn btn-success">Add Product</a>
+    </div><br/>
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Id</th>
+            <th>Category Id</th>
+            <th>Name</th>
+            <th>Unit Price</th>
+            <th>Stock</th>
+        </tr>
+        @foreach(var item in Model)
+        {
+            count++;
+            <tr>
+                <th>@count</th>
+                <td>@item.ProductID</td>
+                <td>@item.CategoryID</td>
+                <td>@item.ProductName</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.UnitInStock</td>
+            </tr>
+        }
+    </table>
+</div>
