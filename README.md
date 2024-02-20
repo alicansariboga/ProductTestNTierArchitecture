@@ -17,4 +17,5 @@ After GetAll() from ProductManager, CRUD operations in EfEntityRepository should
   </div>
 </div>
 <br/>
+
 You can contact and connect with me <a>[LinkedIn](https://www.linkedin.com/in/alicansariboga/)<a/> or <b><a href="mailto:alicansariboga1@gmail.com" target="blank">E-Mail</a></b>.
